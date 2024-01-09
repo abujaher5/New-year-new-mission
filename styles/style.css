@@ -226,19 +226,23 @@
   margin-top: 22px;
 }
 .box2 {
-  background-image: url('../resources/Ellipse\ 1.png');
-  background-size: cover;
   width: 350px;
   height: 350px;
-  /* border-radius: 463px; */
   border: 15px solid #f00;
   border-radius: 50%;
-  padding: 10px;
+   padding: 30px; 
 }
+/* .box3-imgg{
+  
+margin-left:130px;
+ width: 463px;
+height: 463px; 
+border-radius: 450px;
+border: 12px solid #F00;
+padding:30px;
+} */
 
-.box3 {
-  margin-left: 100px;
-}
+
 .box3-title1 {
   color: #f00;
   font-family: Inter;
@@ -257,10 +261,12 @@
   width: 276px;
   padding-top: 16px;
 }
+
 .box3-icon {
   width: 140px;
   height: 140px;
   margin-top: 43px;
+
 }
 /* main section  */
 .msection1 {
